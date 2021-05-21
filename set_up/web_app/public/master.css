@@ -1,0 +1,26 @@
+body {
+  background-color: #d8e2dc;
+}
+
+#chessboard {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+#rightPanel {
+  margin-top: 50px;
+}
+
+#buttons {
+
+  margin-top: 80px;
+}
+
+#allMoves {
+  height: 300px;
+  width:300px;
+  white-space: pre;
+}
+#history {
+  margin-top: 40px;
+}
