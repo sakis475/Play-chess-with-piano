@@ -1,5 +1,4 @@
-This is a project made for the course Speech & Sound Processing of Ionian University. 
-
+## This is a project made for the course Speech & Sound Processing of Ionian University.
 
 ![chess piano web application](https://github.com/sakis475/Play-chess-with-piano/blob/master/pianoChess.jpg)
 Piano chess is the ability to play the regular old plain chess with piano notes. The player plays the normal chess game against the computer. The difference with the hundreds of implementations available on the internet is that the player does not use his keyboard or cursor to make his next move. But instead his musical instrument and specifically the piano. I have successfully played several chess games with the computer using only musical notes. What is most interesting is that at the end of each game there is the option "replay" of the game with each movement of pawns to play musical instruments!
